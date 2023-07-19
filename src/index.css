@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.slick-active button {
+}
+.slick-dots li button {
+  background-color: red !important;
+}
+/* .ant-table-cell {
+  text-align: center !important;
+} */
